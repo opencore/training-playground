@@ -1,1 +1,8 @@
-Readme!
+This is just an idea.
+
+I have a few major sections:
+
+* site/ is for the website only
+* tools/ is for any and all tools we might develop (could also go in separate repositories, I'm a fan of monorepos)
+* content/ this is the actual content we have, in multiple languages and formats, including labs, assets etc.
+* training/ this would then build a coherent product out of one or more pieces of content

@@ -1,0 +1,5 @@
+This would then contain the stuff needed (e.g. Maven project) to build a project from its sources in ../content and it could bundle more than one of those things (e.g. NiFi & Kafka)
+
+I'm not yet sure how easy it is to refer to content outside of this folder.
+
+Maybe we need to make a "release" out of every content folder as well?
